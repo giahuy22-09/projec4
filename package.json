@@ -1,0 +1,19 @@
+{
+  "name": "ronin-balance-checker",
+  "version": "1.0.0",
+  "description": "Ứng dụng kiểm tra số dư ví trên mạng Ronin Saigon",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

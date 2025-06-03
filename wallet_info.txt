@@ -1,0 +1,16 @@
+=== THÔNG TIN VÍ ETHEREUM (MÔ PHỎNG) ===
+
+CẢNH BÁO: KHÔNG CHIA SẺ THÔNG TIN NÀY VỚI BẤT KỲ AI!
+
+Khóa bí mật (Private Key):
+d295162f1e0fc38128f0e35ddbaabf3d337925682367cd0bf8ac41a1cb293508
+
+Địa chỉ ví:
+0xbc67d1ddcaeebc19ced7f3e906c5b7abddf1d33b
+
+=== HƯỚNG DẪN BẢO MẬT ===
+1. Giữ bí mật khóa bí mật
+2. Không chia sẻ file này với bất kỳ ai
+3. Lưu trữ an toàn và tạo bản sao dự phòng
+
+Lưu ý: Đây là phiên bản học tập, không sử dụng cho ví thật!
